@@ -1,0 +1,11 @@
+{
+    "version": "0.5",
+    "requires": [
+        "onetbb/2021.9.0#938109fcfbb9aa4568cc85a971191883%1683571511.602",
+        "boost-develop/cci.20230614#2a8379289c7c8b73b99c994f8b7654a7%1686865026.427099"
+    ],
+    "build_requires": [
+        "b2/4.10.0#ae7cdd42c5ff775a247b5011613483cf%1686517590.04"
+    ],
+    "python_requires": []
+}

@@ -1,0 +1,8 @@
+sources:
+  "1.82.0":
+    url:
+      - "https://github.com/boostorg/unordered/archive/refs/tags/boost-1.82.0.zip"
+    sha256: 6365c811233eb30aa2c9525c051ea3642fa7f5084cae900c23c162a72954fd88
+  "cci.20230612":
+    url: "https://github.com/boostorg/unordered/archive/refs/heads/feature/cfoa-mutex.zip"
+    sha256: "38fe97ab9bc400828c0fd32b103f3327bdca0ca39a7f1e964b68776af52777a9"
